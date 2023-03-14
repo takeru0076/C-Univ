@@ -1,0 +1,25 @@
+単体テストのコンパイル方法
+
+gcc -DDEBUG main02.c
+gcc -DDEBUG calc02.c
+
+
+
+
+結合テストのコンパイル方法
+
+gcc main02.c calc02.c
+
+
+単体テストのコンパイル方法
+
+gcc -DDEBUG main02.c
+gcc -DDEBUG calc02.c
+
+
+
+
+結合テストのコンパイル方法
+
+gcc main02.c calc02.c
+
